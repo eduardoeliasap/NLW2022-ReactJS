@@ -1,0 +1,5 @@
+$ npm create vite@latest // Para criar o projeto
+    // Durante a instação, escolha React project -> TypeScript
+
+$ npm install -D tailwindcss postcss autoprefixer
+$ npx tailwindcss init -p // Cria o arquivo de configuração do tailwindcss e do postcss
