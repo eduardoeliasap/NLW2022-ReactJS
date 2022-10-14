@@ -3,3 +3,5 @@ $ npm create vite@latest // Para criar o projeto
 
 $ npm install -D tailwindcss postcss autoprefixer
 $ npx tailwindcss init -p // Cria o arquivo de configuração do tailwindcss e do postcss
+$ npm install --save clsx
+$  npm install @radix-ui/react-slot
